@@ -38,3 +38,45 @@ font-weight:600;
     height: 64px ;
     text-align: center;
 }
+.banner-feature{
+    display: flex;
+    justify-content: space-between;
+}
+.banner-content li{
+    list-style: none;
+}
+.banner-image {
+width: 527.929px;
+height: 527.929px;
+border-radius: 527.929px;
+background: rgba(241, 91, 34, 0.20);
+}
+.banner-content h2{
+    width: 288px;
+    color: var(--Dark-01, #151414);
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.banner-content p{
+    color: var(--Dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    width: 416px;
+}
+.banner-content li{
+    color: var(--Dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+.banner-content {
+    padding: 230px 450px 0px 134px;
+}
