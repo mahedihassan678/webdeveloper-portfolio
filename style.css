@@ -1,0 +1,40 @@
+.background-feature{
+    
+}
+.background-img {
+        background: url('/images/banner/banner2.png');
+        background-repeat: no-repeat;
+        width: 600px;
+        height: 809px;
+        padding: 216px 230px 167px 845px;
+      
+}
+.background-img h2{
+color: #151414;
+text-align: right;
+font-size: 65px;
+font-weight: 700;
+width: 525px;
+}
+.background-img p{
+color:  #444343;
+text-align: right;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px; 
+width: 494px;
+}
+.background-img button{
+border-radius: 5px;
+background: #F15B22;
+border: 0;
+color: #FFF;
+font-size: 20px ; 
+font-weight:600;
+}
+
+.btn{
+    width: 160px;
+    height: 64px ;
+    text-align: center;
+}
